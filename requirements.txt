@@ -1,1 +1,26 @@
+# Google Agent Development Kit (ADK)
+google-generativeai
+google-ai-agent-sdk
+
+# Web scraping (JD fetch tools)
+requests
+beautifulsoup4
+
+# Resume parsing
+pypdf
+spacy
+python-docx
+
+# Data storage / memory
+jsonlines
+
+# For evaluation & logging
+pandas
+
+# Optional (if you add vector similarity)
+scikit-learn
+
+# For running the local agent server
+fastapi
+uvicorn
 
